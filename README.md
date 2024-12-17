@@ -81,13 +81,22 @@ This dashboard assesses company performance based on job postings, employee size
 Here are snapshots of the interactive dashboards:  
 
 - **Job Postings Overview**:  
-  ![Job Postings Overview](images/job_postings_overview.png)  
+  ![Job Postings Overview](images/job_posting_overview.png)  
+
+
+
 
 - **Employee and Follower Analysis**:  
   ![Employee Analysis](images/employee_analysis.png)  
 
+
+
+
 - **Job Skills Analysis**:  
   ![Job Skills Analysis](images/job_skills_analysis.png)  
+
+
+
 
 - **Company Performance**:  
   ![Company Performance](images/company_performance.png)  
