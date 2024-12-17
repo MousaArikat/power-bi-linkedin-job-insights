@@ -114,4 +114,4 @@ Here are snapshots of the interactive dashboards:
 For inquiries or collaboration, feel free to reach out:  
 - **Name**: Mousa Aricat  
 - **Email**: [mousa_arikat@outlook.com](mailto:mousa_arikat@outlook.com)  
-- **LinkedIn**: [Mousa Aricat](https://linkedin.com/in/mousa-arikat)  
+- **LinkedIn**: [Mousa Aricat](https://www.linkedin.com/in/mousa-aricat-5847a2241/)
